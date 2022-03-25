@@ -1,3 +1,5 @@
+# This program reads the data from the lidar (how? when? by what command? how often? How can you use the values?)
+
 import os
 import sys
 import time
